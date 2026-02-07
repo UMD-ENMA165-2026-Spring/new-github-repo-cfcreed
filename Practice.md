@@ -18,3 +18,15 @@ Normal text.
 - List
 - Of
 - Things
+
+:EMOJICODE: ⭐
+:EMOJICODE: 🪐
+:EMOJICODE: 🔭
+:EMOJICODE: 👽
+
+Mentioning @guyer.
+
+>[!Warning] Aliens are invading the planet. [^1]
+
+[^1]: This is fictional.
+
