@@ -19,14 +19,16 @@ Normal text.
 - Of
 - Things
 
-:EMOJICODE: ⭐
-:EMOJICODE: 🪐
-:EMOJICODE: 🔭
-:EMOJICODE: 👽
+:star:
+:alien:
+:ringed_planet:
+:telescope:
+:space_invader: :space_invader: :space_invader:
 
 Mentioning @guyer.
 
->[!Warning] Aliens are invading the planet. [^1]
+>[!Warning]
+> Aliens are invading the planet. [^1]
 
 [^1]: This is fictional.
 
