@@ -7,3 +7,6 @@ Normal text.
 ***Bold and italic text.***
 
 ~strikethrough.~
+
+<sub>sub</sub>script.
+<sup>super</sup>script.
